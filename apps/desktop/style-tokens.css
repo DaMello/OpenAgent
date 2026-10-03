@@ -1,0 +1,20 @@
+:root {
+  --bg: #111112;
+  --panel: #18181a;
+  --sunken: #0b0b0c;
+  --text: #ececea;
+  --text-muted: #9b9b98;
+  --text-faint: #5e5e5c;
+  --border: #28282a;
+  --border-strong: #3c3c3e;
+  --hover: #202022;
+  --primary: #ececea;
+  --on-primary: #111112;
+  --ok: #16a34a;
+  --warn: #d97706;
+  --error: #dc2626;
+  --radius: 3px;
+  --radius-small: 2px;
+  --font-sans: "Segoe UI Variable Text", "Segoe UI", system-ui, sans-serif;
+  --font-mono: "Cascadia Mono", "Cascadia Code", Consolas, monospace;
+}

@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+secrets.*
+credentials.json
+token.json
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local OpenAgent runtime
+data/
+memory/
+identity/
+models/
+credentials/
+browser-profile/
+workspaces/
+downloads/
+cache/
+logs/
+runtime/
+
+# Test / tooling
+.pytest_cache/
+.coverage
+htmlcov/
